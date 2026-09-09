@@ -1,0 +1,3 @@
+access_token   = "replace-with-a-short-lived-token"
+organization_id = "replace-with-your-organization-id"
+environment_id  = "replace-with-your-environment-id"
